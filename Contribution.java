@@ -39,7 +39,7 @@ public class Contribution extends JFrame implements ActionListener {
 		lb2.setForeground(c2);
 		panel.add(lb2);
 
-		lb3 = new JLabel("American International University-Bangladesh");
+		lb3 = new JLabel("University Name(Hidden)");
 		lb3.setBounds(300, 150, 400, 25);
 		f3 = new Font("Cambria", Font.BOLD, 18);
 		lb3.setFont(f3);
@@ -48,7 +48,7 @@ public class Contribution extends JFrame implements ActionListener {
 		lb3.setForeground(c3);
 		panel.add(lb3);
 
-		lb20 = new JLabel("Course Teacher : Nyme Ahmed");
+		lb20 = new JLabel("Course Teacher : (Hidden)");
 		lb20.setBounds(360, 180, 260, 25);
 		f21 = new Font("Cambria", Font.BOLD, 18);
 		lb20.setFont(f21);
@@ -57,7 +57,7 @@ public class Contribution extends JFrame implements ActionListener {
 		lb20.setForeground(c21);
 		panel.add(lb20);
 
-		lb4 = new JLabel("Name: S M SAKIB AL MAHMUD SADI");
+		lb4 = new JLabel("Name: Author 1(Hidden)");
 		lb4.setBounds(50, 250, 300, 20);
 		f4 = new Font("Cambria", Font.BOLD, 16);
 		lb4.setFont(f4);
@@ -66,7 +66,7 @@ public class Contribution extends JFrame implements ActionListener {
 		lb4.setForeground(c4);
 		panel.add(lb4);
 
-		lb5 = new JLabel("Id : 24-56019-1");
+		lb5 = new JLabel("Id : U ID");
 		lb5.setBounds(50, 280, 300, 20);
 		f5 = new Font("Cambria", Font.BOLD, 16);
 		lb5.setFont(f5);
@@ -93,7 +93,7 @@ public class Contribution extends JFrame implements ActionListener {
 		lb6.setForeground(c6);
 		// panel.add(lb6);
 
-		lb7 = new JLabel("Name: DIBOSH RAHMAN");
+		lb7 = new JLabel("Name: Author 2(Hidden)");
 		lb7.setBounds(50, 400, 300, 20);
 		f7 = new Font("Cambria", Font.BOLD, 16);
 		lb7.setFont(f7);
@@ -102,7 +102,7 @@ public class Contribution extends JFrame implements ActionListener {
 		lb7.setForeground(c7);
 		panel.add(lb7);
 
-		lb8 = new JLabel("Id : 24-56022-1");
+		lb8 = new JLabel("Id : UID");
 		lb8.setBounds(50, 430, 300, 20);
 		f8 = new Font("Cambria", Font.BOLD, 16);
 		lb8.setFont(f8);
@@ -120,7 +120,7 @@ public class Contribution extends JFrame implements ActionListener {
 		lb9.setForeground(c9);
 		// panel.add(lb9);
 
-		lb10 = new JLabel("Section : I");
+		lb10 = new JLabel("Section : (Hidden)");
 		lb10.setBounds(50, 490, 300, 20);
 		f10 = new Font("Cambria", Font.BOLD, 16);
 		lb10.setFont(f10);
@@ -129,7 +129,7 @@ public class Contribution extends JFrame implements ActionListener {
 		lb10.setForeground(c10);
 		// panel.add(lb10);
 
-		lb11 = new JLabel("Name: MD MAZDI HOSSAIN");
+		lb11 = new JLabel("Name: Author 3(Hidden)");
 		lb11.setBounds(550, 250, 300, 20);
 		f11 = new Font("Cambria", Font.BOLD, 16);
 		lb11.setFont(f7);
@@ -138,7 +138,7 @@ public class Contribution extends JFrame implements ActionListener {
 		lb11.setForeground(c11);
 		panel.add(lb11);
 
-		lb12 = new JLabel("Id : 23-52667-2");
+		lb12 = new JLabel("Id : UID");
 		lb12.setBounds(550, 280, 300, 20);
 		f12 = new Font("Cambria", Font.BOLD, 16);
 		lb12.setFont(f12);
@@ -156,7 +156,7 @@ public class Contribution extends JFrame implements ActionListener {
 		lb13.setForeground(c13);
 		// panel.add(lb13);
 
-		lb14 = new JLabel("Section : I");
+		lb14 = new JLabel("Section : hehe");
 		lb14.setBounds(550, 340, 300, 20);
 		f14 = new Font("Cambria", Font.BOLD, 16);
 		lb14.setFont(f14);
@@ -165,7 +165,7 @@ public class Contribution extends JFrame implements ActionListener {
 		lb14.setForeground(c14);
 		// panel.add(lb14);
 
-		lb15 = new JLabel("Name: ARIF ANJUM");
+		lb15 = new JLabel("Name: Author 4(Hidden)");
 		lb15.setBounds(550, 400, 300, 20);
 		f15 = new Font("Cambria", Font.BOLD, 16);
 		lb15.setFont(f15);
@@ -174,7 +174,7 @@ public class Contribution extends JFrame implements ActionListener {
 		lb15.setForeground(c15);
 		panel.add(lb15);
 
-		lb16 = new JLabel("Id : 24-56018-1");
+		lb16 = new JLabel("Id : UID");
 		lb16.setBounds(550, 430, 300, 20);
 		f16 = new Font("Cambria", Font.BOLD, 16);
 		lb16.setFont(f16);
@@ -192,7 +192,7 @@ public class Contribution extends JFrame implements ActionListener {
 		lb17.setForeground(c17);
 		// panel.add(lb17);
 
-		lb18 = new JLabel("Section : I");
+		lb18 = new JLabel("Section : hehe");
 		lb18.setBounds(550, 490, 300, 20);
 		f18 = new Font("Cambria", Font.BOLD, 16);
 		lb18.setFont(f18);

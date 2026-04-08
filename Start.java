@@ -3,6 +3,7 @@ public class Start {
         Welcome o = new Welcome();
         // Login o = new Login();
         // Register o = new Register();
+        // Contribution o = new Contribution();
 
         // DashBoard o = new DashBoard();
         // Apply o = new Apply();

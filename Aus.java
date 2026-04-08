@@ -39,7 +39,7 @@ public class Aus extends JFrame implements ActionListener {
         img3 = new ImageIcon("./img/syu.png");
         img4 = new ImageIcon("./img/pu.png");
         img5 = new ImageIcon("./img/su.png");
-        img6 = new ImageIcon("./img/USA1.png");
+        img6 = new ImageIcon("./img/kk.jpg");
 
         imgLabel = new JLabel(img1);
         imgLabel.setBounds(65, 45, 500, 181);
