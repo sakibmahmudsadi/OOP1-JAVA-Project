@@ -1,4 +1,4 @@
-# International Education Agency Management System 🎓 [Download]()
+# International Education Agency Management System 🎓
 
 The **International Education Agency Management System** is a streamlined Java GUI application designed to manage educational course marketplaces and international study applications. It provides a dual-access portal where administrators can manage user data and payments, while students can browse courses and apply for programs across five different countries.
 
@@ -11,10 +11,10 @@ The **International Education Agency Management System** is a streamlined Java G
 
 ### 🖼️ Screenshots
 
-| ![Signup](emssignup1.jpg) | ![Login](emslogin2.jpg) | ![Admin](emsadmin3.jpg) | ![Dashboard 1](emsdashboard4.jpg) |
+| ![Signup](img/emssignup1.jpg) | ![Login](img/emslogin2.jpg) | ![Admin](img/emsadmin3.jpg) | ![Dashboard 1](img/emsdashboard4.jpg) |
 |:---:|:---:|:---:|:---:|
 | 1 | 2 | 3 | 4 |
-| ![Dashboard 2](emsdashb5.jpg) | ![Countries](emscountry6.jpg) | ![USA](emsusa7.jpg) | ![Canada](emscanada8.jpg) |
+| ![Dashboard 2](img/emsdashb5.jpg) | ![Countries](img/emscountry6.jpg) | ![USA](img/emsusa7.jpg) | ![Payment](img/emspayment8.jpg) |
 | 5 | 6 | 7 | 8 |
 
 ---
